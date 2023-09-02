@@ -1,0 +1,16 @@
+D:\Proyectos 2023\Pedro\bin\Debug\netcoreapp3.1\Pedro.exe
+D:\Proyectos 2023\Pedro\bin\Debug\netcoreapp3.1\Pedro.deps.json
+D:\Proyectos 2023\Pedro\bin\Debug\netcoreapp3.1\Pedro.runtimeconfig.json
+D:\Proyectos 2023\Pedro\bin\Debug\netcoreapp3.1\Pedro.runtimeconfig.dev.json
+D:\Proyectos 2023\Pedro\bin\Debug\netcoreapp3.1\Pedro.dll
+D:\Proyectos 2023\Pedro\bin\Debug\netcoreapp3.1\Pedro.pdb
+D:\Proyectos 2023\Pedro\obj\Debug\netcoreapp3.1\Pedro.csproj.AssemblyReference.cache
+D:\Proyectos 2023\Pedro\obj\Debug\netcoreapp3.1\Pedro.Form1.resources
+D:\Proyectos 2023\Pedro\obj\Debug\netcoreapp3.1\Pedro.csproj.GenerateResource.cache
+D:\Proyectos 2023\Pedro\obj\Debug\netcoreapp3.1\Pedro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos 2023\Pedro\obj\Debug\netcoreapp3.1\Pedro.AssemblyInfoInputs.cache
+D:\Proyectos 2023\Pedro\obj\Debug\netcoreapp3.1\Pedro.AssemblyInfo.cs
+D:\Proyectos 2023\Pedro\obj\Debug\netcoreapp3.1\Pedro.csproj.CoreCompileInputs.cache
+D:\Proyectos 2023\Pedro\obj\Debug\netcoreapp3.1\Pedro.dll
+D:\Proyectos 2023\Pedro\obj\Debug\netcoreapp3.1\Pedro.pdb
+D:\Proyectos 2023\Pedro\obj\Debug\netcoreapp3.1\Pedro.genruntimeconfig.cache
